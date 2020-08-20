@@ -1,0 +1,7 @@
+NODE_ENV = 'production'
+PORT = 9091
+DB_URI = ///////////////
+JwtSecret = /////
+CorsCredentials = true
+CorsOrigin = true
+
