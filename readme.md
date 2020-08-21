@@ -9,6 +9,8 @@ npm run dev or npm start
 
 ### the server is running on port 9091
 
+http://localhost:4000/graphql
+
 Packages for GraphQL
 
 - [express-graphql](https://www.npmjs.com/package/express-graphql)
